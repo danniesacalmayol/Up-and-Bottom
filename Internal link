@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Up and Bottom</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <main>
+
+            <h1>My Goals for the Year</h1>
+
+        <hr>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#electronics">Books that I want to read</a>
+                    </li>
+                    <li>
+                    <a href="#avoid">Places I want to Avoid</a>
+                    </li>
+                    <li>
+                        <a href="#escapade">Places I want to Visit</a>
+                    </li>
+                </ul>
+            </nav>
+        <hr>
+    <section id="fullStack">
+        <h2>I'm ready to learn HTML</h2>
+        <p>This is my first web page.</p>
+
+        <h3>My Daily Schedule</h3>
+        <p>Let me tell you how:</p>
+        <ol>
+            <li>...I learn more about web dev.</li>
+            <li>...I plan out my schedule.</li>
+            <li>...I use resources from StackTrek, Youtube, Google and <abbr title="FreeCodeCamp">
+                 <a href="https://www.freecodecamp.org/">FCC.</a></abbr>
+                 <!-- https://www.freecodecamp.org/ is an absolute reference -->
+           </li>
+       </ol>
+    </section>
+
+        <hr>
+
+    <section id="escapade">    
+        <h2>I Am Also Planning a Vacation</h2>
+        <p>I've been working hard and <em>really need a get away.</em></p>
+        <p>I live in <abbr title="Cebu City">CC</abbr> so I want to visit a Tubod Spring.</p>
+
+        <h3>Place I'd Like to Visit</h3>
+        <ul>
+        <li><p>I've heard good things about the Durano Eco Farm...</p></li>
+        <li><p>I've heard good things about going here:</p>
+        <address>
+            BLUEWATER MARIBAGO BEACH RESORT <br>
+            Buyong Maribago, Mactan Island Lapu-Lapu City <br> 
+            Cebu, Philippines 6015
+        </address>
+        </li>
+        </ul>
+    </section>
+
+    <section id="avoid">
+
+        <h3>Places I Want to Avoid</h3>
+        <dl>
+            <dt>Sahara Desert</dt>
+            <dd>I hear this is <em>hot</em>!</dd>
+
+            <dt>Arabian Desert</dt>
+            <dd>This is also hot.</dd>
+
+            <dt>Gobi Desert</dt>
+            <dd>These are also hot.</dd>
+        </dl>
+    </section>
+    <section id="electronics">
+        <h3>Books that I'm planning to buy this year</h3>
+        <dl>
+            <dt><b>Clean Code</b> by Robert Cecil Martin</dt>
+            <dd>I hear this is a <strong>recommended</strong> book for developers</dd>
+            <br>
+            <dt><b>Electronics for Beginners: A Practical Introduction to Schematics, 
+                Circuits, and Microcontrollers</b> by Jonathan Bartlett</dt>
+            <dd>I want to <strong>study</strong> arduino and raspberry pie</dd>
+        </dl>
+    </section>
+        </main>
+        <hr>
+        &lt;&lt;&lt; &copy; Dannie Mayol &gt;&gt;&gt;
+        <p>
+            <a href="Up and bottom.html">Back to Home</a>
+         </p>
+    </body>
+</html>
